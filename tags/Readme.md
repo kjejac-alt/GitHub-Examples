@@ -14,4 +14,4 @@ _After commit and checkout_
 git tag -d 1.0.0
 
 ## Delete tag upstream
-git push --delete origin 1.0.0.0
+git push --delete origin 1.0.0
