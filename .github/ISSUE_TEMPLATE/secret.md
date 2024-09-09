@@ -1,7 +1,7 @@
 ---
 name: Secret Issue
 about: Submits a secret
-title: "[Date:] [Secret] "
+title: "[Secret] "
 labels: secret
 assignees: ''
 ---
