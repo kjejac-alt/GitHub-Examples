@@ -1,4 +1,6 @@
 ---
+blank_issues_enabled: false
+
 name: Secret Issue
 about: Submits a secret
 title: "[Secret] "
